@@ -1,0 +1,6 @@
+# The demo runs on the Python standard library only (urllib, csv, json,
+# dataclasses), so there are no hard dependencies. The packages below are
+# optional and only needed if you extend the collectors.
+#
+# requests>=2.31      # nicer HTTP than urllib for the live fetchers
+# pandas>=2.0         # if you prefer DataFrame-based transforms/QC

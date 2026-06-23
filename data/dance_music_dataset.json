@@ -1,0 +1,162 @@
+[
+  {
+    "dance_id": "d-001",
+    "dance_name": "Macarena",
+    "aka": [
+      "La Macarena"
+    ],
+    "category": "latino",
+    "origin_region": "Spain",
+    "origin_year": 1993,
+    "signature_song": "Macarena",
+    "song_artist": "Los del Rio",
+    "song_year": 1993,
+    "genre": "Latin pop / dance",
+    "platform": "club / music-video",
+    "key_moves": "Sequential arm placements ending in a hip swivel and quarter turn, repeated.",
+    "cultural_context": "Spanish duo's flamenco-pop track that became a 1990s global wedding and party staple after the Bayside Boys remix.",
+    "popularity_tier": 1,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Macarena_(song)"
+    ]
+  },
+  {
+    "dance_id": "d-002",
+    "dance_name": "Gangnam Style horse dance",
+    "aka": [
+      "Invisible horse"
+    ],
+    "category": "pop",
+    "origin_region": "South Korea",
+    "origin_year": 2012,
+    "signature_song": "Gangnam Style",
+    "song_artist": "PSY",
+    "song_year": 2012,
+    "genre": "K-pop / dance-pop",
+    "platform": "music-video",
+    "key_moves": "Galloping horse-riding motion with lasso arm and bounce.",
+    "cultural_context": "Satire of affluent Seoul's Gangnam district; first YouTube video to reach one billion views.",
+    "popularity_tier": 1,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gangnam_Style"
+    ]
+  },
+  {
+    "dance_id": "d-003",
+    "dance_name": "Azonto",
+    "aka": [],
+    "category": "african",
+    "origin_region": "Ghana",
+    "origin_year": 2011,
+    "signature_song": "Azonto",
+    "song_artist": "Fuse ODG",
+    "song_year": 2012,
+    "genre": "Afrobeats / azonto",
+    "platform": "club / music-video",
+    "key_moves": "Mimed everyday gestures (ironing, driving, washing) over a hip-and-knee groove.",
+    "cultural_context": "Accra street dance that spread across West Africa and the UK diaspora, popularizing Afrobeats abroad.",
+    "popularity_tier": 2,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Azonto"
+    ]
+  },
+  {
+    "dance_id": "d-004",
+    "dance_name": "Dutty Wine",
+    "aka": [],
+    "category": "reggae-dancehall",
+    "origin_region": "Jamaica",
+    "origin_year": 2006,
+    "signature_song": "Dutty Wine",
+    "song_artist": "Tony Matterhorn",
+    "song_year": 2006,
+    "genre": "Dancehall",
+    "platform": "club / music-video",
+    "key_moves": "Rapid circular neck rotation combined with a seated hip wine.",
+    "cultural_context": "Jamaican dancehall move from the mid-2000s Kingston dance scene, controversial for neck-injury risk.",
+    "popularity_tier": 2,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dutty_Wine_(song)"
+    ]
+  },
+  {
+    "dance_id": "d-005",
+    "dance_name": "Crip Walk",
+    "aka": [
+      "C-Walk"
+    ],
+    "category": "hip-hop",
+    "origin_region": "United States (Compton, CA)",
+    "origin_year": 1970,
+    "signature_song": "various West Coast hip-hop",
+    "song_artist": "Ice-T / WC and others",
+    "song_year": 0,
+    "genre": "West Coast hip-hop",
+    "platform": "club / music-video",
+    "key_moves": "Quick heel-toe footwork spelling shapes, originally gang-affiliated.",
+    "cultural_context": "Born in 1970s Compton gang culture, later absorbed into mainstream hip-hop and pop performance.",
+    "popularity_tier": 2,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Crip_Walk"
+    ]
+  },
+  {
+    "dance_id": "d-006",
+    "dance_name": "Renegade",
+    "aka": [],
+    "category": "viral-challenge",
+    "origin_region": "United States (Atlanta, GA)",
+    "origin_year": 2019,
+    "signature_song": "Lottery (Renegade)",
+    "song_artist": "K Camp",
+    "song_year": 2019,
+    "genre": "Hip-hop / trap",
+    "platform": "TikTok",
+    "key_moves": "Fast arm waves, woah, and whip combination synced to the beat drop.",
+    "cultural_context": "Choreographed by 14-year-old Jalaiah Harmon; became the defining TikTok dance and a credit-attribution case study.",
+    "popularity_tier": 1,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Renegade_(dance)"
+    ]
+  },
+  {
+    "dance_id": "d-007",
+    "dance_name": "Gwara Gwara",
+    "aka": [],
+    "category": "african",
+    "origin_region": "South Africa",
+    "origin_year": 2016,
+    "signature_song": "Gwara Gwara",
+    "song_artist": "DJ Bongz",
+    "song_year": 2016,
+    "genre": "Gqom / Afro-house",
+    "platform": "music-video",
+    "key_moves": "Crouched stomping with a circular leg-drag and rolling arm.",
+    "cultural_context": "South African gqom-era move taken global after Rihanna and Childish Gambino performed it on major stages.",
+    "popularity_tier": 2,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gwara_Gwara"
+    ]
+  },
+  {
+    "dance_id": "d-008",
+    "dance_name": "Dougie",
+    "aka": [
+      "Teach Me How to Dougie"
+    ],
+    "category": "hip-hop",
+    "origin_region": "United States (Dallas, TX)",
+    "origin_year": 2007,
+    "signature_song": "Teach Me How to Dougie",
+    "song_artist": "Cali Swag District",
+    "song_year": 2010,
+    "genre": "Hip-hop",
+    "platform": "music-video",
+    "key_moves": "Loose side-to-side sway with a hand brushing through the hair.",
+    "cultural_context": "Named after 1980s rapper Doug E. Fresh; revived as a 2010 viral crossover hit.",
+    "popularity_tier": 2,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Teach_Me_How_to_Dougie"
+    ]
+  }
+]
